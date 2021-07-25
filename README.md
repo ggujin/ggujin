@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ggujin
 - 👀 JS와 React에 관심있습니다.
-- 🌱 현재 언어 문법부터 시작하여 공부중입니다.
+- 🌱 현재 언어 JAVA부터 시작하여 공부중입니다.
 <!--- - 💞️ I’m looking to collaborate on ... ---!>
 - 📫 How to reach me.. : yang97816@gmail.com
 
